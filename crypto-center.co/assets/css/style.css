@@ -5686,3 +5686,21 @@ body.login .content,
 body.register-page .content{
    background: transparent;
 }
+
+
+
+.hash-table{
+    background-color: white;
+    border-radius: 8px;
+    margin-left: 60px;
+}
+
+.hash-table th{
+    padding: 30px;
+}
+
+.hash-table td{
+    padding: 10px;
+    margin-left: 10px;
+}
+
