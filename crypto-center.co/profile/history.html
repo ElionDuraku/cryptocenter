@@ -35,7 +35,7 @@
             <nav class="navbar navbar-default navigation-clean-button" style="background-color:transparent;">
                 <div class="container">
                     <div class="navbar-header">
-                        <a class="navbar-brand navbar-link logo-all-pages" href="index.html"><img style="width: 250px" src="../assets/img/1.png"></a>
+                        <a class="navbar-brand navbar-link logo-all-pages" href="index.html"><img style="width: 250px" src="assets/img/1.png"></a>
                         <a class="navbar-brand navbar-link logo-traderoom" href="index.html"><img src="assets/img/1.png"></a>
                         <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                     </div>
@@ -76,70 +76,32 @@
                 
                 <div class="panel panel-default">
                     <div class="panel-body">
-                        <div style="background-color: rgb(255, 255, 255);" class="content withdraw-content">
+                        <div style="background-color: rgb(255, 255, 255);" class="content">
                             <div class="links">
-                                <a href="withdraw.html">Withdraw</a>
+                                <a href="deposit.html">Deposit</a>
                                 <a href="history.html">History</a>
                             </div>
-                            <div class="withdraw-form">
-                                <div class="balance">
-                                    <p>Total Balance</p>
-                                    <p>0</p>
-                                </div>
-                                <form class="form-horizontal withdrawF " role="form" method="POST" action="#">                                      
-                                    <div class="form-group name col-md-6">
-                                        <label>Amount to <br>Withdraw <br>
-                                            <input id="name" type="text" class="withdrawInputs" name="name" value=""  required autofocus>
-                                        </label>
-                                    </div>
-
-                                    <div class="form-group name col-md-6">
-                                        <label>Amount in <br>BTC <br>
-                                            <input id="name" type="text" class="withdrawInputs" name="name" value=""  required autofocus>
-                                        </label>
-                                    </div>
-
-                                    <div class="form-group name col-md-6">
-                                        <label>Your Full Name <br>
-                                            <input id="name" type="text" class="withdrawInputs" name="name" value=""  required autofocus>
-                                        </label>
-                                    </div>
-
-                                    <div class="form-group name col-md-6">
-                                        <label>Transactions Fee <br>
-                                            <input id="name" type="text" class="withdrawInputs" name="name" value=""  required autofocus>
-                                        </label>
-                                    </div>
-
-                                    <div class="form-group name col-md-6">
-                                        <label>Your Email <br>
-                                            <input id="name" type="text" class="withdrawInputs" name="name" value=""  required autofocus>
-                                        </label>
-                                    </div>
-
-                                    <div class="form-group name col-md-6">
-                                        <label>Total <br>
-                                            <input id="name" type="text" class="withdrawInputs" name="name" value=""  required autofocus>
-                                        </label>
-                                    </div>
-
-                                    <div class="form-group name col-md-6">
-                                        <label>Your Walletaddress <br>
-                                            <input id="name" type="text" class="withdrawInputs" name="name" value=""  required autofocus>
-                                        </label>
-                                    </div>
-
-                                    <div class="form-group name col-md-6">
-                                        <div class="">
-                                            <button type="submit" class="live-acc withdraw-button">
-                                                <span>Withdraw</span>
-                                            </button>
-                                    </div>
-                                </form>
-                            </div>
+                            <table class="history-table " style="background: rgb(138, 136, 136); margin-top: 50px; margin-left: 120px;" ; >
+                                <thead>
+                                    <tr>
+                                        <th>Value</th>
+                                        <th>Value in BTC</th>
+                                        <th>Status</th>
+                                        <th>Date</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>There is no deposit yet.</td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+    
+                                </tbody>            
+                            </table>
                         </div>
                         </div>
-
                     </div>
                 </div>
             </div>
