@@ -57,7 +57,7 @@
  
     <div>
 
-        <div class="container-fluid" style="background: radial-gradient(circle, #004aad, #E13AF1)";>
+        <div class="container-fluid" style="background: radial-gradient(circle, #000428, #004e92)";>
             <nav class="navbar navbar-default navigation-clean-button" style="background-color:transparent;">
                 <div class="container">
                     <div class="navbar-header">
@@ -95,7 +95,7 @@
  <!-- div class="market-prices"></div -->
         
  <div class="content">
- <div class="content login-page" style="background: radial-gradient(circle, #004aad, #E13AF1)"">
+ <div class="content login-page" style="background: radial-gradient(circle, #000428, #004e92)";>">
 <div class="container">
            <div class="col-md-12 right-login">
         <div class="panel panel-default ">
