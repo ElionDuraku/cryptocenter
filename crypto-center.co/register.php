@@ -1,3 +1,36 @@
+<?php include("./methods/CryptoCenter.php"); ?>
+<?php 
+    if(isset($_POST["register-btn"])){
+        if(isset($_POST["first-name"]) && !empty($_POST["first-name"]) &&
+            isset($_POST["last-name"]) && !empty($_POST["last-name"]) && 
+            isset($_POST["email"]) && !empty($_POST["email"]) && 
+            isset($_POST["phone"]) && !empty($_POST["phone"]) && 
+            isset($_POST["password"]) && !empty($_POST["password"]) && 
+            isset($_POST["password-confirmation"]) && !empty($_POST["password-confirmation"])){
+            
+            $firstName = $_POST["first-name"];
+            $lastName = $_POST["last-name"];
+            $email = $_POST["email"];
+            $phone = $_POST["phone"];
+            $password = $_POST["password"];
+            $passwordConfirmation = $_POST["password-confirmation"];
+            
+            $username = $firstName . " " . $lastName;
+
+            if($password == $passwordConfirmation){
+                $hashedPassword = password_hash($password, PASSWORD_DEFAULT);
+                CryptoCenter::register($username, $email, $hashedPassword);
+            }else{
+                echo "Passwords does not match";
+            }
+
+            
+
+        }
+    }
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -81,42 +114,38 @@
                     <div class="panel-body">
                         <h3>Create your new account now.</h3><br><br>
                         <form class="form-horizontal" role="form" method="POST" action="#">
-                            <input type="hidden" name="_token" value="46SpXbwRPOrR1KvkMGvvoWX3YoTMAEoKNh1s1PQf">
-
-                              
                             <div class="form-group name col-md-6">
                                 <label>First Name
-                                    <input id="name" type="text" class="form-control" name="name" value=""  required autofocus>
+                                    <input id="name" type="text" class="form-control" name="first-name" value=""  required autofocus>
                                 </label>
-                                                                </div>
+                            </div>
 
                             <div class="form-group name col-md-6">
                                     <label>Last name
-                                        <input id="lname" type="text" class="form-control" name="last_name" value="" required autofocus>
+                                        <input id="lname" type="text" class="form-control" name="last-name" value="" required autofocus>
                                     </label>
 
-                                                                </div>
+                            </div>
                             <div class="form-group email col-md-6">
                                     <label>Email
                                         <input id="email" type="email" class="form-control" name="email" value=""  required>
                                     </label>
 
-                                                                </div>
+                            </div>
                             <div class="form-group phone col-md-6">
                                 <label>Phone
                                     <input id="phone" type="tel" class="form-control" name="phone" value="" required>
                                 </label>
 
-                                                            </div>
+                            </div>
                             <div class="form-group password col-md-6">
                                 <label>Password
                                     <input id="password" type="password" class="form-control" name="password"  required>
                                 </label>
-
-                                                            </div>
+                            </div>
 
                             <div class="form-group rpassword col-md-6">
-                                    <label>Re-type password<input id="password-confirm" type="password" class="form-control" name="password_confirmation"  required></label>
+                                    <label>Re-type password<input id="password-confirm" type="password" class="form-control" name="password-confirmation"  required></label>
                             </div>
                             <div class="form-group">
                               <input style="margin-left: 70px;" class="form-check-input" type="checkbox" name="checked" id="flexCheckDefault">
@@ -124,12 +153,12 @@
                               <label class="form-check-label" for="flexCheckDefault">
                                 <span style="margin-left: 100px;">I confirm that I am 18 years old or older and accept <a target="_blank" href="terms.html" class="link">Terms &amp; Conditions</a>, <a target="_blank" href="privacy.html" class="link">Privacy Policy</a></span> 
                               </label>
-                                                          </div>
+                            </div>
                             
                           
                             <div class="form-group">
                                 <div class="col-md-12">
-                                    <button type="submit" class="live-acc register-button">
+                                    <button type="submit" class="live-acc register-button" name="register-btn">
                                         <span>Open Account</span>
                                     </button>
                                 </div>

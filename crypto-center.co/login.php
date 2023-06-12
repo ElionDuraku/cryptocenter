@@ -1,3 +1,26 @@
+<?php include("./methods/CryptoCenter.php"); ?>
+<?php 
+    if(isset($_POST["login-btn"])){
+        if(isset($_POST["email"]) && !empty($_POST["email"]) &&
+        isset($_POST["password"]) && !empty($_POST["password"])){
+
+            $email = $_POST["email"];
+            $password = $_POST["password"];
+
+            CryptoCenter::login($email, $password);
+
+        }
+    }
+
+    // if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true) {
+    //     header("Location: index.php"); // Redirect to the home page or any other desired page
+    //      // Stop executing the current script
+    // }else{
+    //     header("Location: login.php"); // Redirect to the home page or any other desired page
+
+    // }
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -79,14 +102,7 @@
             <div class="panel-body">
                 <h3> Sign in</h3><br><br>
                 
-                <form class="form-horizontal"
-                      role="form"
-                      method="POST"
-                      action="https://crypto-center.co/login">
-                    <input type="hidden"
-                           name="_token"
-                           value="46SpXbwRPOrR1KvkMGvvoWX3YoTMAEoKNh1s1PQf">
-
+                <form class="form-horizontal" method="POST">
                     <div class="form-group">
                         <div class="col-md-12">
                             <label>Email
@@ -107,7 +123,8 @@
                         <div class="col-md-12">
                             <button type="submit"
                                     class="live-acc register-button"
-                                    style="margin-right: 15px;">
+                                    style="margin-right: 15px;"
+                                    name="login-btn">
                                 <span>Login</span>
                             </button>
                         </div>
