@@ -35,8 +35,8 @@
             <nav class="navbar navbar-default navigation-clean-button" style="background-color:transparent;">
                 <div class="container">
                     <div class="navbar-header">
-                        <a class="navbar-brand navbar-link logo-all-pages" href="index.php"><img style="width: 250px" src="../assets/img/1.png"></a>
-                        <a class="navbar-brand navbar-link logo-traderoom" href="index.php"><img src="../assets/img/1.png"></a>
+                    <a class="navbar-brand navbar-link logo-all-pages" href="../index.php"><img style="width: 350px" src="../assets/img/1.png"></a>
+                        <a class="navbar-brand navbar-link logo-traderoom" href="../index.php"><img src="../assets/img/1.png"></a>
                         <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                     </div>
                     <div class="collapse navbar-collapse" id="navcol-1">
@@ -55,8 +55,8 @@
                             <li role="presentation"><a href="contact.html">Contact</a></li>
                         </ul>
                                                 <p class="navbar-text navbar-right actions">
-                            <a class="navbar-link login" href="login.html" >Sign in</a> 
-                            <a class="live-acc" role="button" href="register.html"><span>Sign Up</span></a></p>
+                                                <a class="navbar-link login" href="../login.php" >Sign in</a> 
+                            <a class="live-acc" role="button" href="../register.php"><span>Sign Up</span></a></p>
                         
                         
                                             </div>
@@ -69,7 +69,7 @@
  <!-- div class="market-prices"></div -->
         
  <div class="content extracontent">
-    <div class="content login-page" style="background: radial-gradient(circle, #000428, #004e92);">
+    <div class="content login-page" style="background: radial-gradient(circle, #000428, #004e92); ">
    <div class="container">
               <div class="col-md-12 right-login">
            <div class="panel panel-default ">
@@ -119,26 +119,24 @@
 </div>
     <div class="footer-dark">
         <nav class="navbar footer-menu-content">
-<div class="container">
+        <div class="container">
 	<div class="footer-column">
-		<img src="assets/img/logo-footer.svg"><br><br>
+		<img style="width:200px;" src="assets/img/1.png"><br><br>
 	</div>
 	<div class="footer-column">
 		<h3>Quick Link</h3>
          <ul>
-           <li><a href="index.html">Home</a></li>
-           <li><a href="index.html">Products</a></li>
-           <li><a href="#">About</a></li>
-           <li><a href="#">Contact</a></li>
+           <li><a href="index.php">Platforms</a></li>
+           <li><a href="about.php">About us</a></li>
+           <li><a href="accounts.php">Account Types</a></li>
+           <li><a href="contact.php">Contact</a></li>
          </ul>
 	</div>
 	<div class="footer-column">
 		<h3>Resources</h3>
          <ul>
-           <li><a href="index.html">Terms and Conditions</a></li>
-           <li><a href="index.html">Privacy policy</a></li>
-           <li><a href="#">Legal Notice</a></li>
-           <li><a href="#">FAQ</a></li>
+           <li><a href="terms.php">Terms and Conditions</a></li>
+           <li><a href="privacy.php">Privacy policy</a></li>
          </ul>
 	</div>
 	<div class="footer-column">

@@ -485,13 +485,14 @@ ul.nav li a{display:block;font-size:14px;}
     .why-us h3,
     .platform .col-md-6 h3{
     text-align: center;
-    color: #121318;
+    color: #fafafa;
     font-family: samsungsharpsans-bold;
-    font-size: 18px;
+    font-size: 28px;
     margin-bottom: 10px;
 }
 .why-us p{
-        padding: 0 15px;
+        padding: 0 22px;
+        text-align: justify;
     }
 .platform p {
     font-size: 12px;
@@ -509,7 +510,7 @@ ul.nav li a{display:block;font-size:14px;}
     overflow: hidden;
     border-radius: 22px;
     background-size: cover;
-    background-image: url(../img/base.jpg);
+    background-image: url(../img/base2.jpg);
     background-repeat: no-repeat;
     z-index: 8;
     opacity: 1;

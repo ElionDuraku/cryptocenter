@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from crypto-center.co/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:24 GMT -->
+<!-- Mirrored from crypto-center.co/register by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:25 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -10,36 +10,33 @@
 <title>
     CRYPTO CENTER | 2023
 </title>
-<link rel="icon" sizes="16x16" href="assets/img/CryptoCenter.png">
-<meta http-equiv="X-UA-Compatible"
-      content="IE=edge">
-<meta content="width=device-width, initial-scale=1.0"
-      name="viewport"/>
-<meta http-equiv="Content-type"
-      content="text/html; charset=utf-8">
-   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/styles.min.css"> 
-<link rel="stylesheet" href="assets/css/style.css">
-<link rel="stylesheet" href="assets/css/font-awesome.min.css">
-<link rel="stylesheet" href="assets/css/font-awesome.css">
+<link rel="icon" sizes="16x16" href="../assets/img/CryptoCenter.png">
+<meta http-equiv="X-UA-Compatible"content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0"name="viewport"/>
+<meta http-equiv="Content-type"content="text/html; charset=utf-8">
+<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="../assets/css/styles.min.css"> 
+<link rel="stylesheet" href="../assets/css/style.css">
+<link rel="stylesheet" href="../assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="../assets/css/font-awesome.css">
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/theme-dark.css" type="text/css" media="">
-<link rel="stylesheet" href="assets/css/select.min.css" type="text/css" media="">
-<link rel="stylesheet" href="assets/css/traderoom-style.css" type="text/css" media="">
-<link rel="stylesheet" href="assets/css/layout-styles.css" type="text/css" media="">
-<link rel="stylesheet" href="assets/css/slick-theme.css" type="text/css" media="">
+<link rel="stylesheet" href="../assets/css/theme-dark.css" type="text/css" media="">
+<link rel="stylesheet" href="../assets/css/select.min.css" type="text/css" media="">
+<link rel="stylesheet" href="../assets/css/traderoom-style.css" type="text/css" media="">
+<link rel="stylesheet" href="../assets/css/layout-styles.css" type="text/css" media="">
+<link rel="stylesheet" href="../assets/css/slick-theme.css" type="text/css" media="">
 </head>
 
-<body class="page-header-fixed ">
+<body class="page-header-fixed register-page logo-black">
  
     <div>
 
-        <div class="container-fluid">
+        <div class="container-fluid" style="background: radial-gradient(circle, #000428, #004e92);";>
             <nav class="navbar navbar-default navigation-clean-button" style="background-color:transparent;">
                 <div class="container">
                     <div class="navbar-header">
-                        <a class="navbar-brand navbar-link logo-all-pages" href="index.php"><img style="width: 250px" src="assets/img/1.png"></a>
-                        <a class="navbar-brand navbar-link logo-traderoom" href="index.php"><img src="assets/img/1.png"></a>
+                    <a class="navbar-brand navbar-link logo-all-pages" href="../index.php"><img style="width: 350px" src="../assets/img/1.png"></a>
+                        <a class="navbar-brand navbar-link logo-traderoom" href="../index.php"><img src="../assets/img/1.png"></a>
                         <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                     </div>
                     <div class="collapse navbar-collapse" id="navcol-1">
@@ -58,8 +55,8 @@
                             <li role="presentation"><a href="contact.html">Contact</a></li>
                         </ul>
                                                 <p class="navbar-text navbar-right actions">
-                            <a class="navbar-link login" href="login.html" >Sign in</a> 
-                            <a class="live-acc" role="button" href="register.html"><span>Sign Up</span></a></p>
+                                                <a class="navbar-link login" href="../login.php" >Sign in</a> 
+                            <a class="live-acc" role="button" href="../register.php"><span>Sign Up</span></a></p>
                         
                         
                                             </div>
@@ -68,82 +65,100 @@
         </div>
     </div>   
     <div>
-     <div class="contact-clean about social-top">
-          <div class="left-part"></div>
-        <div class="container">
-            <div class="row">
-                            <h1 style="text-align:center; color: #fff;" class="page-title">We’re on a mission to <br>democratize finance</h1>
-                            <p style="text-align:center; color: #fff;" class="page-title-top">Ever since our establishment, Crypto Center has successfully expanded to serve retail <br>and institutional clients in more than 170 countries - and we are still growing.</p>
-                            <ul id="about-li">
-                                <li><span>250M</span><br><span>Traded monthly</span></li>
-                                <li><span>250M</span><br><span>Traded monthly</span></li>
-                                <li><span>250M</span><br><span>Traded monthly</span></li>
-                                <li><span>250M</span><br><span>Traded monthly</span></li>
-                            </ul>
-                            <div class="bg-gradient-blur-wrapper big"><div class="bg-gradient-blur-circle-3 pink big"></div><div class="bg-gradient-blur-circle-2 blue-2"></div><div class="bg-gradient-blur-circle-1 purple-2 big"></div></div>
-            </div>
-        </div>
-    </div>
-
+ 
  <!-- div class="market-prices"></div -->
         
- <div class="content">
-     
-    <div class="content about-content other-page">
-    <div style="background: radial-gradient(circle, #000428, #004e92)"; class="content main-c">   
-        <div class="container">
-            <div class="col-md-6">
-                <h3>The story behind us</h3>
-                <p style="color: white; text-align: justify;">Crypto Center was established in 2015 by a visionary team of industry experts with a deep understanding of the online trading sector. Our founders recognized the immense potential of cryptocurrencies and blockchain technology to revolutionize the global financial landscape. With this realization, Crypto Center was born.
-                    At Crypto Center, our purpose is to spearhead the decentralization of financial technology, making it accessible to individuals from all corners of the world. We believe that everyone deserves equal opportunities to participate in the digital economy, regardless of their geographical location or financial background</p>
-            </div>
-            <div  class="col-md-6"><img style="width:320px; margin-top: 80px; margin-left: 40px;"  src="assets/img/bitcoin1.png"></div>
-        </div>
-        <div class="container">
-            <div class="col-md-6"><img style="width:320px; margin-left: 120px; margin-top: 40px;" src="assets/img/bitcoin1.png"></div>
-            <div class="col-md-6"> <h3>Empowering Traders Worldwide</h3>
-                <p style="color: white; text-align: justify;">Our dedicated team works tirelessly to provide traders with the technology, resources, and support they need to make informed and confident trading decisions. We strive to empower traders of all levels, from beginners taking their first steps into the world of cryptocurrencies to seasoned professionals looking to enhance their strategies.As the digital landscape continues to evolve, so do we. We remain at the forefront of technological advancements, constantly exploring new horizons and embracing emerging trends. By staying ahead of the curve, we ensure that our traders have access to the best market tools and solutions available.</p>
-            </div>
-        </div>
-        
-    </div>
+ <div class="content extracontent">
+ <div class="content registration-content other-page" style="background: radial-gradient(circle, #000428, #004e92)";>
+    <div class="container">
+      
+            <div class="col-md-12">
+                
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h3>My Profile</h3><br><br>
+                        <form class="form-horizontal" role="form" method="POST" action="#">
+                            <input type="hidden" name="_token" value="46SpXbwRPOrR1KvkMGvvoWX3YoTMAEoKNh1s1PQf">
 
-    <div style="background: radial-gradient(circle, #000428, #004e92)"; class="content how-to">
-      <div class="container">
-            <h3>The values that drive <br>everything we do</h3>
-            <ul id="ab-list">
-                <li>Security of Funds</li>
-                <li>Security of Funds</li>
-                <li>Security of Funds</li>
-                <li>Security of Funds</li>
-            </ul>
-            <div class="bg-gradient-blur-wrapper big"><div class="bg-gradient-blur-circle-3 pink big"></div><div class="bg-gradient-blur-circle-2 blue-2"></div><div class="bg-gradient-blur-circle-1 purple-2 big"></div></div>
-      </div>
-    </div>
+                              
+                            <div class="form-group name col-md-6">
+                                <label>First Name
+                                    <input id="name" type="text" class="form-control" name="name" value=""  required autofocus>
+                                </label>
+                            </div>
 
+                            <div class="form-group name col-md-6">
+                                    <label>Last name
+                                        <input id="lname" type="text" class="form-control" name="last_name" value="" required autofocus>
+                                    </label>
+
+                            </div>
+                            <div class="form-group email col-md-6">
+                                    <label>Email
+                                        <input id="email" type="email" class="form-control" name="email" value=""  required>
+                                    </label>
+
+                            </div>
+                            <div class="form-group phone col-md-6">
+                                <label>Phone
+                                    <input id="phone" type="tel" class="form-control" name="phone" value="" required>
+                                </label>
+
+                            </div>
+                            <div class="form-group password col-md-6">
+                                <label>Country
+                                    <input id="country" type="text" class="form-control" name="country"  required>
+                                </label>
+
+                            </div>
+
+                            <div class="form-group rpassword col-md-6">
+                                    <label>Birthday
+                                        <input id="birthday" type="date" class="form-control" name="birthday"  required>
+                                    </label>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-12">
+                                    <button type="submit" class="live-acc register-button">
+                                        <span>Update Details</span>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                       
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+
+  <script src="../ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  
+  </script>
 </div>
     <div class="footer-dark">
         <nav class="navbar footer-menu-content">
-<div class="container">
+        <div class="container">
 	<div class="footer-column">
-		<img src="assets/img/logo-footer.svg"><br><br>
+		<img style="width:200px;" src="assets/img/1.png"><br><br>
 	</div>
 	<div class="footer-column">
 		<h3>Quick Link</h3>
          <ul>
-           <li><a href="index.html">Home</a></li>
-           <li><a href="index.html">Products</a></li>
-           <li><a href="#">About</a></li>
-           <li><a href="#">Contact</a></li>
+           <li><a href="index.php">Platforms</a></li>
+           <li><a href="about.php">About us</a></li>
+           <li><a href="accounts.php">Account Types</a></li>
+           <li><a href="contact.php">Contact</a></li>
          </ul>
 	</div>
 	<div class="footer-column">
 		<h3>Resources</h3>
          <ul>
-           <li><a href="index.html">Terms and Conditions</a></li>
-           <li><a href="index.html">Privacy policy</a></li>
-           <li><a href="#">Legal Notice</a></li>
-           <li><a href="#">FAQ</a></li>
+           <li><a href="terms.php">Terms and Conditions</a></li>
+           <li><a href="privacy.php">Privacy policy</a></li>
          </ul>
 	</div>
 	<div class="footer-column">
@@ -162,7 +177,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 item text" style="font-size:10px;">
-                        <p style="line-height: 20px; color: #fff; font-size: 12px; text-align: center;">© 2023 <a href="index.html">Crypto Center</a> . All rights reserved.</p>
+                        <!-- p style="line-height: 20px; color: #fff; font-size: 9px; text-align: center;">GENERAL RISK WARNING: Crypto TRADING IS RISKY; READ OUR RISK DISCLOSURE BEFORE OPENING AN ACCOUNT. Trading is allowed to a trader who is above 18 years old and subjected to due dilligence of trader`s documents and KYC checks</p -->
                     </div>
                 </div>
             </div>
@@ -338,5 +353,5 @@ $(".js-menu").on("click", function() {
   </body>
 
 
-<!-- Mirrored from crypto-center.co/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:24 GMT -->
+<!-- Mirrored from crypto-center.co/register by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:26 GMT -->
 </html>

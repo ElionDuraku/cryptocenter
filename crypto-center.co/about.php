@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from crypto-center.co/privacy by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:10:26 GMT -->
+<!-- Mirrored from crypto-center.co/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:24 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -34,32 +34,33 @@
  
     <div>
 
-        <div class="container-fluid" style="background: radial-gradient(circle, #000428, #004e92)">
+        <div class="container-fluid">
             <nav class="navbar navbar-default navigation-clean-button" style="background-color:transparent;">
                 <div class="container">
                     <div class="navbar-header">
-                        <a class="navbar-brand navbar-link logo-all-pages" href="index.html"><img style="width: 250px" src="assets/img/1.png"></a>
-                        <a class="navbar-brand navbar-link logo-traderoom" href="index.html"><img src="assets/img/1.png"></a>
+                        <a class="navbar-brand navbar-link logo-all-pages" href="index.php"><img style="width: 250px" src="assets/img/1.png"></a>
+                        <a class="navbar-brand navbar-link logo-traderoom" href="index.php"><img src="assets/img/1.png"></a>
                         <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                     </div>
                     <div class="collapse navbar-collapse" id="navcol-1">
                         <ul class="nav navbar-nav main-menu">
                             <li role="presentation">
                                 <div class="dropdown">
-                                      <button class="dropbtn">PLATFORMS</button>
+                                    <a href="index.php">
+                                      <button class="dropbtn">PLATFORMS</button></a>
                                       <div class="dropdown-content">
-                            <a href="mining.html">MINING</a>
-                            <a href="login.html">TRADING</a>
+                            <a href="mining.php">MINING</a>
+                            <a href="login.php">TRADING</a>
                                      </div>
                                   </div>    
                             </li>
-                            <li role="presentation"><a href="about.html" >About	Us</a></li>
-                            <li role="presentation"><a href="accounts.html">Account types</a></li>
-                            <li role="presentation"><a href="contact.html">Contact</a></li>
+                            <li role="presentation"><a href="about.php" >About	Us</a></li>
+                            <li role="presentation"><a href="accounts.php">Account types</a></li>
+                            <li role="presentation"><a href="contact.php">Contact</a></li>
                         </ul>
                                                 <p class="navbar-text navbar-right actions">
-                            <a class="navbar-link login" href="login.html" >Sign in</a> 
-                            <a class="live-acc" role="button" href="register.html"><span>Sign Up</span></a></p>
+                            <a class="navbar-link login" href="login.php" >Sign in</a> 
+                            <a class="live-acc" role="button" href="register.php"><span>Sign Up</span></a></p>
                         
                         
                                             </div>
@@ -68,71 +69,80 @@
         </div>
     </div>   
     <div>
-     <div class="contact-clean privacy social-top">
-<div class="left-part"></div>
+     <div class="contact-clean about social-top">
+          <div class="left-part"></div>
         <div class="container">
             <div class="row">
-                            <h1  class="page-title" style="color: #fff;">Privacy policy</h1>
+                            <h1 style="text-align:center; color: #fff;" class="page-title">We’re on a mission to <br>democratize finance</h1>
+                            <p style="text-align:center; color: #fff;" class="page-title-top">Ever since our establishment, Crypto Center has successfully expanded to serve retail <br>and institutional clients in more than 170 countries - and we are still growing.</p>
+                            <ul id="about-li">
+                                <li><span>250M</span><br><span>Traded monthly</span></li>
+                                <li><span>250M</span><br><span>Traded monthly</span></li>
+                                <li><span>250M</span><br><span>Traded monthly</span></li>
+                                <li><span>250M</span><br><span>Traded monthly</span></li>
+                            </ul>
+                            <div class="bg-gradient-blur-wrapper big"><div class="bg-gradient-blur-circle-3 pink big"></div><div class="bg-gradient-blur-circle-2 blue-2"></div><div class="bg-gradient-blur-circle-1 purple-2 big"></div></div>
             </div>
         </div>
     </div>
- 
 
  <!-- div class="market-prices"></div -->
         
  <div class="content">
      
-    <div class="content privacy-content">
-    <div class="container">
-        <div class="row"> 
-            <div class="  col-md-12">
-
-<p>1. &nbsp;&nbsp;By accessing, visiting and/or using this Website or any other webpage thereon, you unequivocally and unreservedly express your binding agreement to any and all of these terms.
-</p>
-<p>2. &nbsp;&nbsp;Protecting your privacy is one of our top priorities. This privacy policy sets out how we collect information regarding Website users, what we may do with it, and what you can do to protect your privacy.
-</p><p>
-3. &nbsp;&nbsp;This policy applies to all information collected to or submitted on Website. You may be able to execute financial transactions, make requests, submit data, register to receive materials, etc. Types of personal information that may be collected on Website include user’s name, home address, e-mail address, telephone number, bank account, credit card number, etc., whether pertaining to yourself, or to third parties, where you act on behalf of any such party. Information from various sources may be combined by Website. You may update part of your personal information from time to time by accessing your Site account and act according to the “updating your information” instructions therein. You hereby confirm that you aware to the fact that due to legal requirements some of your information detailed cannot be changed.
-</p><p>
-4. &nbsp;&nbsp;Website may also collect other types of information, as logged by Website’s servers, including your IP address, browser type and language, and the date and time of your visit, in order to infer certain user trends or to block certain users from accessing Website. Thus, Website may assign your computer one or more cookies which may collect information in order to facilitate access to Website and to personalize your online experience, and/or use standard or non-standard internet tools, such as web beacons or monitoring programs, which collect information that tracks your use of Website and enables it to customize our services and promotions.
-</p><p>
-5. &nbsp;&nbsp;Personal information given to us by you shall not be disclosed to any third party without your prior consent, unless such information: (i) is required to be disclosed to related companies of ours; (ii) was publicly known to us and/or made generally available in the public domain prior to the time of disclosure by you; (iii) becomes publicly known and made generally available after disclosure by you to us through no action or inaction of us; (iv) is required to be disclosed by law or regulation, in which case we shall give the you as much advance notice of the proposed disclosure as is practical (including a copy of any written request or order)in order to allow you to limit or restrict such disclosure; (v) is furnished or made known to us by a third party otherwise than in breach of any of our confidentiality obligation hereunder; is independently developed by us without reference to the information disclosed by you or was known to us, without restriction, at the time of disclosure by you, as shall be shown and evidenced by written documents; or (vii) is required to be disclosed in order for us to protect our rights.
-</p><p>
-6. &nbsp;&nbsp;In order to prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-</p><p>
-7. &nbsp;&nbsp;In order to protect child privacy, we never knowingly collect or maintain information from users under 18; no part of our website is structured to attract anyone under 18.
-</p><p>
-8. &nbsp;&nbsp;If you so wish, you may choose and ask not to receive emails and/or newsletters from the Website, and/or delete or decline cookies by changing your browser settings.
-</p><p>
-9.  &nbsp;&nbsp;We do not store or keep Credit card detail information.
-</p><p>
-10. &nbsp;&nbsp;This privacy policy may be changed from time to time. We reserve the right, at any time, to amend, alter, modify or change, as we see fit, any term of this Privacy Policy our without any prior notice, and you hereby agree to conform to the current version as published in this site.</p>
-            </div> 
+    <div class="content about-content other-page">
+    <div style="background: radial-gradient(circle, #000428, #004e92)"; class="content main-c">   
+        <div class="container">
+            <div class="col-md-6">
+                <h3>The story behind us</h3>
+                <p style="color: white; text-align: justify;">Crypto Center was established in 2015 by a visionary team of industry experts with a deep understanding of the online trading sector. Our founders recognized the immense potential of cryptocurrencies and blockchain technology to revolutionize the global financial landscape. With this realization, Crypto Center was born.
+                    At Crypto Center, our purpose is to spearhead the decentralization of financial technology, making it accessible to individuals from all corners of the world. We believe that everyone deserves equal opportunities to participate in the digital economy, regardless of their geographical location or financial background</p>
+            </div>
+            <div  class="col-md-6"><img style="width:320px; margin-top: 80px; margin-left: 40px;"  src="assets/img/bitcoin1.png"></div>
         </div>
+        <div class="container">
+            <div class="col-md-6"><img style="width:320px; margin-left: 120px; margin-top: 40px;" src="assets/img/bitcoin1.png"></div>
+            <div class="col-md-6"> <h3>Empowering Traders Worldwide</h3>
+                <p style="color: white; text-align: justify;">Our dedicated team works tirelessly to provide traders with the technology, resources, and support they need to make informed and confident trading decisions. We strive to empower traders of all levels, from beginners taking their first steps into the world of cryptocurrencies to seasoned professionals looking to enhance their strategies.As the digital landscape continues to evolve, so do we. We remain at the forefront of technological advancements, constantly exploring new horizons and embracing emerging trends. By staying ahead of the curve, we ensure that our traders have access to the best market tools and solutions available.</p>
+            </div>
+        </div>
+        
     </div>
- </div> 
+
+    <div style="background: radial-gradient(circle, #000428, #004e92)"; class="content how-to">
+      <div class="container">
+            <h3>The values that drive <br>everything we do</h3>
+            <ul id="ab-list">
+                <li>Security of Funds</li>
+                <li>Security of Funds</li>
+                <li>Security of Funds</li>
+                <li>Security of Funds</li>
+            </ul>
+            <div class="bg-gradient-blur-wrapper big"><div class="bg-gradient-blur-circle-3 pink big"></div><div class="bg-gradient-blur-circle-2 blue-2"></div><div class="bg-gradient-blur-circle-1 purple-2 big"></div></div>
+      </div>
+    </div>
+
 </div>
     <div class="footer-dark">
         <nav class="navbar footer-menu-content">
-<div class="container">
+        <div class="container">
 	<div class="footer-column">
-		<img src="assets/img/logo-footer.svg"><br><br>
+		<img style="width:200px;" src="assets/img/1.png"><br><br>
 	</div>
 	<div class="footer-column">
 		<h3>Quick Link</h3>
          <ul>
-           <li><a href="index.html">Home</a></li>
-           <li><a href="index.html">Products</a></li>
-           <li><a href="#">About</a></li>
-           <li><a href="#">Contact</a></li>
+           <li><a href="index.php">Platforms</a></li>
+           <li><a href="about.php">About us</a></li>
+           <li><a href="accounts.php">Account Types</a></li>
+           <li><a href="contact.php">Contact</a></li>
          </ul>
 	</div>
 	<div class="footer-column">
 		<h3>Resources</h3>
          <ul>
-           <li><a href="index.html">Terms and Conditions</a></li>
-           <li><a href="index.html">Privacy policy</a></li>
-           <li><a href="#">Legal Notice</a></li>
-           <li><a href="#">FAQ</a></li>
+           <li><a href="terms.php">Terms and Conditions</a></li>
+           <li><a href="privacy.php">Privacy policy</a></li>
          </ul>
 	</div>
 	<div class="footer-column">
@@ -327,5 +337,5 @@ $(".js-menu").on("click", function() {
   </body>
 
 
-<!-- Mirrored from crypto-center.co/privacy by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:10:26 GMT -->
+<!-- Mirrored from crypto-center.co/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:24 GMT -->
 </html>

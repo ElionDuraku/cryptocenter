@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from crypto-center.co/register by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:25 GMT -->
+<!-- Mirrored from crypto-center.co/contact by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:25 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -10,53 +10,57 @@
 <title>
     CRYPTO CENTER | 2023
 </title>
-<link rel="icon" sizes="16x16" href="../assets/img/CryptoCenter.png">
-<meta http-equiv="X-UA-Compatible"content="IE=edge">
-<meta content="width=device-width, initial-scale=1.0"name="viewport"/>
-<meta http-equiv="Content-type"content="text/html; charset=utf-8">
-<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-<link rel="stylesheet" href="../assets/css/styles.min.css"> 
-<link rel="stylesheet" href="../assets/css/style.css">
-<link rel="stylesheet" href="../assets/css/font-awesome.min.css">
-<link rel="stylesheet" href="../assets/css/font-awesome.css">
+<link rel="icon" sizes="16x16" href="assets/img/CryptoCenter.png">
+<meta http-equiv="X-UA-Compatible"
+      content="IE=edge">
+<meta content="width=device-width, initial-scale=1.0"
+      name="viewport"/>
+<meta http-equiv="Content-type"
+      content="text/html; charset=utf-8">
+   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/styles.min.css"> 
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="assets/css/font-awesome.css">
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-<link rel="stylesheet" href="../assets/css/theme-dark.css" type="text/css" media="">
-<link rel="stylesheet" href="../assets/css/select.min.css" type="text/css" media="">
-<link rel="stylesheet" href="../assets/css/traderoom-style.css" type="text/css" media="">
-<link rel="stylesheet" href="../assets/css/layout-styles.css" type="text/css" media="">
-<link rel="stylesheet" href="../assets/css/slick-theme.css" type="text/css" media="">
+<link rel="stylesheet" href="assets/css/theme-dark.css" type="text/css" media="">
+<link rel="stylesheet" href="assets/css/select.min.css" type="text/css" media="">
+<link rel="stylesheet" href="assets/css/traderoom-style.css" type="text/css" media="">
+<link rel="stylesheet" href="assets/css/layout-styles.css" type="text/css" media="">
+<link rel="stylesheet" href="assets/css/slick-theme.css" type="text/css" media="">
 </head>
 
-<body class="page-header-fixed register-page logo-black">
+<body class="page-header-fixed ">
  
     <div>
 
-        <div class="container-fluid" style="background: radial-gradient(circle, #000428, #004e92);";>
+        <div style="background: radial-gradient(circle, #000428, #004e92)"; class="container-fluid">
             <nav class="navbar navbar-default navigation-clean-button" style="background-color:transparent;">
                 <div class="container">
                     <div class="navbar-header">
-                        <a class="navbar-brand navbar-link logo-all-pages" href="index.php"><img style="width: 250px" src="../assets/img/1.png"></a>
-                        <a class="navbar-brand navbar-link logo-traderoom" href="index.php"><img src="../assets/img/1.png"></a>
+                        <a class="navbar-brand navbar-link logo-all-pages" href="index.html"><img style="width: 250px" src="assets/img/1.png"></a>
+                        <a class="navbar-brand navbar-link logo-traderoom" href="index.html"><img src="assets/img/1.png"></a>
                         <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
                     </div>
                     <div class="collapse navbar-collapse" id="navcol-1">
                         <ul class="nav navbar-nav main-menu">
                             <li role="presentation">
                                 <div class="dropdown">
-                                      <button class="dropbtn">PLATFORMS</button>
+                                    <a href="index.php">
+                                      <button class="dropbtn">PLATFORMS</button></a>
                                       <div class="dropdown-content">
-                            <a href="mining.html">MINING</a>
-                            <a href="login.html">TRADING</a>
+                            <a href="mining.php">MINING</a>
+                            <a href="login.php">TRADING</a>
                                      </div>
                                   </div>    
                             </li>
-                            <li role="presentation"><a href="about.html" >About	Us</a></li>
-                            <li role="presentation"><a href="accounts.html">Account types</a></li>
-                            <li role="presentation"><a href="contact.html">Contact</a></li>
+                            <li role="presentation"><a href="about.php" >About	Us</a></li>
+                            <li role="presentation"><a href="accounts.php">Account types</a></li>
+                            <li role="presentation"><a href="contact.php">Contact</a></li>
                         </ul>
                                                 <p class="navbar-text navbar-right actions">
-                            <a class="navbar-link login" href="login.html" >Sign in</a> 
-                            <a class="live-acc" role="button" href="register.html"><span>Sign Up</span></a></p>
+                            <a class="navbar-link login" href="login.php" >Sign in</a> 
+                            <a class="live-acc" role="button" href="register.php"><span>Sign Up</span></a></p>
                         
                         
                                             </div>
@@ -68,57 +72,68 @@
  
  <!-- div class="market-prices"></div -->
         
- <div class="content extracontent">
- <div class="content registration-content other-page" style="background: radial-gradient(circle, #000428, #004e92);">
-    <div class="container">
-      
-            <div class="col-md-12">
-                
-                <div class="panel panel-default">
-                    <div class="panel-body">
-                        <div style="background-color: rgb(255, 255, 255);" class="content">
-                            <div class="links">
-                                <a href="deposit.html">Deposit</a>
-                                <a href="history.html">History</a>
-                            </div>
-                            <div class="text">
-                                <p>In order to make a deposit, please contact your account manager!</p>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-    </div>
-</div>
-
-  <script src="../ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
-  <script type="text/javascript">
+ <div class="content">
   
-  </script>
+    <div class="content contact-content " style="background-color: white;">
+    <div class="container">
+        <div class="row">
+                <div class="col-md-12 contact-right" id="#tol-contactUs-layout-1">
+                         <h3 style="color: #fff; margin-bottom:30px; text-align:center;">How can we help you?</h3> 
+                        
+                         <form action="https://crypto-center.co/send_form_email.php" class=" form-horizontal">
+                         
+                            <div data-widget="contactUs" data-type="container" style="" class="wrapper-contacts">
+                            <div class="form-group">
+                            <label>Full name
+                           <input placeholder="Name" data-translate="" id="name" type="text" data-widget="contactUs" name="name" data-type="contactName" data-isrequired="true" class="form-control widgetPlaceholder">
+                            </label></div>
+
+                            <div class="form-group">
+                                    <label>Email
+                                        <input placeholder="Email" data-translate="" type="text" data-widget="contactUs" name="email" data-regexpmessage="Please enter a valid email address" data-type="email" data-isrequired="true" class="form-control widgetPlaceholder input" placeholder="Email">
+                            </label></div>
+                            <div class="form-group">
+                                    <label>Phone
+                                        <input id="phone" type="text" data-widget="contactUs" name="phone" data-regexpmessage="Please enter your Phone" data-type="phone" data-isrequired="true" data-decorate="maskPhone" placeholder="Phone" class="form-control widgetPlaceholder input" data-valueformatted="">
+                                </label></div>
+                           
+                            <div class="form-group">
+                                     <label>Message
+                                         <textarea placeholder="Type your message..." id="message" cols="50" rows="6" data-widget="contactUs" name="message" data-type="contactMessage" data-isrequired="true" class="form-control widgetPlaceholder input"></textarea>         
+                                </label></div>
+                            <div class="form-group">
+                        <input type="submit" data-translate="ContactUs_Submit" id="submit" data-widget="contactUs" data-type="submit" class="btn btn-primary widgetPlaceholder submitBtn" value="Send">  </div>
+                            </form>
+                            </div>                        
+                          
+            </div>
+
+        </div>
+    </div>
+    </div>
+    
+    
 </div>
     <div class="footer-dark">
         <nav class="navbar footer-menu-content">
-<div class="container">
+        <div class="container">
 	<div class="footer-column">
-		<img src="assets/img/logo-footer.svg"><br><br>
+		<img style="width:200px;" src="assets/img/1.png"><br><br>
 	</div>
 	<div class="footer-column">
 		<h3>Quick Link</h3>
          <ul>
-           <li><a href="index.html">Home</a></li>
-           <li><a href="index.html">Products</a></li>
-           <li><a href="#">About</a></li>
-           <li><a href="#">Contact</a></li>
+           <li><a href="index.php">Platforms</a></li>
+           <li><a href="about.php">About us</a></li>
+           <li><a href="accounts.php">Account Types</a></li>
+           <li><a href="contact.php">Contact</a></li>
          </ul>
 	</div>
 	<div class="footer-column">
 		<h3>Resources</h3>
          <ul>
-           <li><a href="index.html">Terms and Conditions</a></li>
-           <li><a href="index.html">Privacy policy</a></li>
-           <li><a href="#">Legal Notice</a></li>
-           <li><a href="#">FAQ</a></li>
+           <li><a href="terms.php">Terms and Conditions</a></li>
+           <li><a href="privacy.php">Privacy policy</a></li>
          </ul>
 	</div>
 	<div class="footer-column">
@@ -313,5 +328,5 @@ $(".js-menu").on("click", function() {
   </body>
 
 
-<!-- Mirrored from crypto-center.co/register by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:26 GMT -->
+<!-- Mirrored from crypto-center.co/contact by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 09 Jun 2023 17:08:25 GMT -->
 </html>

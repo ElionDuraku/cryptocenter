@@ -5,7 +5,7 @@
     
             <h1 class="slider-title">Trade the future with our <br>crypto platform</h1>
             <p class="text-slider">Buy and sell cryptocurrencies, trusted by 15M traders with over $45 billion in transactions.</p>
-            <p class="slider-button"><a href="register.html" class="live-acc"><span>Start Trading</span></a></p>
+            <p class="slider-button"><a href="register.php" class="live-acc"><span>Start Trading</span></a></p>
             <div class="container home-hero w-container"><img src="assets/img/laptop.png"/></div>
         </div>
     </div>
@@ -91,24 +91,22 @@
         <nav class="navbar footer-menu-content">
 <div class="container">
 	<div class="footer-column">
-		<img src="assets/img/logo-footer.svg"><br><br>
+		<img style="width:200px;" src="assets/img/1.png"><br><br>
 	</div>
 	<div class="footer-column">
 		<h3>Quick Link</h3>
          <ul>
-           <li><a href="index.html">Home</a></li>
-           <li><a href="index.html">Products</a></li>
-           <li><a href="#">About</a></li>
-           <li><a href="#">Contact</a></li>
+           <li><a href="index.php">Platforms</a></li>
+           <li><a href="about.php">About us</a></li>
+           <li><a href="accounts.php">Account Types</a></li>
+           <li><a href="contact.php">Contact</a></li>
          </ul>
 	</div>
 	<div class="footer-column">
 		<h3>Resources</h3>
          <ul>
-           <li><a href="index.html">Terms and Conditions</a></li>
-           <li><a href="index.html">Privacy policy</a></li>
-           <li><a href="#">Legal Notice</a></li>
-           <li><a href="#">FAQ</a></li>
+           <li><a href="terms.php">Terms and Conditions</a></li>
+           <li><a href="privacy.php">Privacy policy</a></li>
          </ul>
 	</div>
 	<div class="footer-column">
@@ -127,7 +125,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 item text" style="font-size:10px;">
-                    <p style="line-height: 20px; color: #fff; font-size: 12px; text-align: center;">© 2023 <a href="index.html">Crypto Center</a> . All rights reserved.</p>
+                    <p style="line-height: 20px; color: #fff; font-size: 12px; text-align: center;">© 2023 <a href="index.php">Crypto Center</a> . All rights reserved.</p>
                     </div>
                 </div>
             </div>
